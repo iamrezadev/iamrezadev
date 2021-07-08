@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daviz Yong Zhi</h1>
+<h1 align="center">Hi 👋, I'm iamrezadev</h1>
 <h3 align="center">A passionate frontend developer from Indonesian 👋,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrezadev&label=Profile%20views&color=0e75b6&style=flat" alt="iamrezadev" /> </p>
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [coming soon!](coming soon!)
 
-- ⚡ Fun fact **I think im depressed**
+- ⚡ Fun fact **I will make a future**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
